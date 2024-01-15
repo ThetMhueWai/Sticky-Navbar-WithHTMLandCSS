@@ -1,2 +1,2 @@
-# StickyNavbarWithHTMLandCSS
-StickyNavbarWithHTMLandCSS
+# Sticky Navbar WithHTMLandCSS
+Sticky Navbar WithHTMLandCSS
